@@ -1,4 +1,4 @@
-# Mintlify Starter Kit
+# Welcome to Applied Innovation Corp's AstraAI
 
 Use the starter kit to get your docs deployed and ready to customize.
 
